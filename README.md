@@ -10,6 +10,12 @@ A web app that finds website accessibility issues using [Pa11y](https://github.c
 
 - Clone the repository
 
+- Install the dependencies
+
+```
+$ npm i
+```
+
 - Start the server
 
 ```
