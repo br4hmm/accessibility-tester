@@ -1,0 +1,23 @@
+{
+  "name": "accessibility-tester",
+  "version": "1.0.0",
+  "description": "A web app that finds website accessibility issues using Pa11y",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/br4hmm/accessibility-tester.git"
+  },
+  "keywords": [],
+  "author": "Ibrahim Abu Ghali <ibrahimghali211@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/br4hmm/accessibility-tester/issues"
+  },
+  "homepage": "https://github.com/br4hmm/accessibility-tester#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
